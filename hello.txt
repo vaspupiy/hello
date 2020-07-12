@@ -1,1 +1,2 @@
 New string
+Very new string
