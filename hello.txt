@@ -2,3 +2,4 @@ New string
 Very new string
 
 Podzaebalsya ya chto-to
+hello git
